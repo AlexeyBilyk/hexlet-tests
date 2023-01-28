@@ -9,4 +9,4 @@ const capitalize = (text) => {
   return `${firstChar}${restSubstring}`;
 };
 
- export default capitalize; 
+export default capitalize;
